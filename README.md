@@ -19,11 +19,8 @@ Fizz Buzz をすべての言語でコーディング。
 
 # メモ及び愚痴
 とりあえず[paiza.io]()で実行できる言語を追加してく。
-- Clojure
+- Clojure（というかLISP）
   - ()が多すぎて頭がおかしくなってくる。
-    - ScratchもLISPの末裔と思うとなんか……
-- Cobol
-  - MacのCapsLockが恋しい（Chromebookで作成中）
 
 # 履歴
 - 2/7 17:31 繰り返し回数を受け取るように問題を変更。
