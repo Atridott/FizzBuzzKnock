@@ -1,6 +1,6 @@
-(def n read-line)
+(def n (Long/parseLong (read-line)))
 (loop [i 1]
-    (when (< i 101)
+    (when (< i (+ n 1))
         (println
             (cond
                 (and (= (mod i 3) 0) (= (mod i 5) 0)) "Fizz Buzz"
