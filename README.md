@@ -18,7 +18,7 @@ Fizz Buzz をすべての言語でコーディング。
 
 
 # メモ等
-[https://foldoc.org/contents/language.html](ここ)にある言語はやってくつもり
+[ここ](https://foldoc.org/contents/language.html)にある言語はやってくつもり
 ## 大体の流れ（多分言語の学習にはならない）
   - とりあえずHello Worldを調べてstdio,main関数などを調べる
   - あとは公式のdocとか見ればfor等はわかる
